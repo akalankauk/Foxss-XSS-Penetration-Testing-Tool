@@ -13,4 +13,4 @@
 > Video Tutorial : https://youtu.be/mA5VX8spGTA (Basic)
 
 
-> **This is beta vesion of foxss.It have so many bugs.Please help us to fix that issues.**
+> **NOTE :This is beta vesion of foxss.It have so many bugs.Please help us to fix that issues.**
