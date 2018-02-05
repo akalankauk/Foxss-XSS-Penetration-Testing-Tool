@@ -12,5 +12,8 @@
 ## User Guide
 > Video Tutorial : https://youtu.be/mA5VX8spGTA (Basic)
 
-
+## Updates
+```
+Version 1.0 Released (Beta)
+```
 > **NOTE :This is beta vesion of foxss.It have so many bugs.Please help us to fix that issues.**
