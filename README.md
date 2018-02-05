@@ -7,4 +7,4 @@
 > PHP 5.4 +
 
 ## User Guide
-> Video Tutorial : 
+> Video Tutorial : https://youtu.be/mA5VX8spGTA (Basic)
