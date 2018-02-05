@@ -1,0 +1,21 @@
+span.highlight{
+  background: #f1c40f;
+}
+
+body{
+  background: #fbfcfc;
+  max-width: 100%;
+  height:100%;
+}
+.container{
+  max-width: 100%;
+}
+.panel-default{
+  height:100%;
+  width:100%;
+}
+
+.urlconfig{
+  height:590px;
+  width:70%;
+}

@@ -1,0 +1,19 @@
+textarea.code {
+   resize: none;
+   height: 40%;
+   background: none;
+}
+
+span.highlight{
+  background: #f1c40f;
+}
+
+/**
+ * https://github.com/akalankauk/Foxss-XSS-Penetration-Testing-Tool
+ */
+body{
+  background: #fbfcfc;
+}
+.container{
+  max-width: 700px;
+}
